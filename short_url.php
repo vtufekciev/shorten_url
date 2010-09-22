@@ -31,7 +31,7 @@
         {
             if ($api_key == null)
             {
-                show_error('$api_key must is not set');
+                show_error('$api_key is not set');
                 die();
             }
             else
@@ -44,7 +44,7 @@
         {
             if ($api_domain == null)
             {
-                show_error('$api_domain must is not set');
+                show_error('$api_domain is not set');
                 die();
             }
             else
