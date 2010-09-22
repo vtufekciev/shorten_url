@@ -1,8 +1,8 @@
 <?php
-/** * Short Url*
+/** * Short Url**
 * @description Short url class for service 0.mk 
 * @category Miscs
-* @author Vladimir Tufekchiev
+* @author Vladimir Tufekchiev aka Dr_ViRuS
 * @email vtufekciev@yahoo.com
 * @link http://www.pelaphptutorials.com/article/short-url-0-mk-service-api-class.html */ 
     class Short_url extends Controller
